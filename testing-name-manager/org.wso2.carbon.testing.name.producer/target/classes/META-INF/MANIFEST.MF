@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1621882145917
+Build-Jdk: 1.8.0_281
+Built-By: user
+Bundle-ManifestVersion: 2
+Bundle-Name: org.wso2.carbon.testing.name.producer
+Bundle-SymbolicName: org.wso2.carbon.testing.name.producer
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.osgi.service.component;version="[1.2.0,2.0.0)",org.o
+ sgi.framework;version="[1.7.0,2.0.0)"
+Service-Component: OSGI-INF/org.wso2.carbon.testing.name.producer.intern
+ al.Test.xml
+Tool: Bnd-2.1.0.20130426-122213
